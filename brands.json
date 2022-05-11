@@ -11,4 +11,5 @@
 {"ID":"Q11","PRODUCT":"Galaxy Book2 Pro","GRAPHIC":"Book2Pro.png","PRICE":"5234","MSRP":"3000","QNH":"50","QBO":"30","DECS":"the NIIICE laptop in the world","BRAND":"SAMSUNG"},
 {"ID":"Q12","PRODUCT":"Galaxy Book Pro","GRAPHIC":"Pro3.png","PRICE":"3232","MSRP":"1234","QNH":"50","QBO":"30","DECS":"Thin as a smartphone. Powerful as a PC","BRAND":"SAMSUNG"},
 {"ID":"Q13","PRODUCT":"Galaxy Book Pro","GRAPHIC":"Pro2.png","PRICE":"2345","MSRP":"2000","QNH":"50","QBO":"30","DECS":"360 degrees of thin and stylish 2-in-1 creativit","BRAND":"SAMSUNG"},
-{"ID":"Q15","PRODUCT":"Galaxy Book GO","GRAPHIC":"GO2.png","PRICE":"565","MSRP":"123","QNH":"50","QBO":"30","DECS":"The always on experience with responsive performance you need","BRAND":"SAMSUNG"}]
+{"ID":"Q15","PRODUCT":"Galaxy Book GO","GRAPHIC":"GO2.png","PRICE":"565","MSRP":"123","QNH":"50","QBO":"30","DECS":"The always on experience with responsive performance you need","BRAND":"SAMSUNG"},
+{"ID":"Q15","PRODUCT":"Galaxy Book GO2","GRAPHIC":"GO2.png","PRICE":"565","MSRP":"123","QNH":"50","QBO":"30","DECS":"The always on experience with responsive performance you need","BRAND":"SAMSUNG"}]]
